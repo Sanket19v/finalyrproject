@@ -1,2 +1,2 @@
 # Projects
-this is my project repository
+This is my project repository
